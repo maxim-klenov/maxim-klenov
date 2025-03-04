@@ -54,6 +54,16 @@ jobs:
           plugin_languages_sections: recently-used
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 4
+      - name: Succinct report with PWA
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.pagespeed.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_pagespeed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: https://lecoq.io
+          plugin_pagespeed_pwa: yes
           
       - name: Mildly interesting facts
         uses: lowlighter/metrics@latest
