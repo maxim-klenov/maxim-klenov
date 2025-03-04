@@ -25,24 +25,24 @@ jobs:
           base_hireable: yes
           config_timezone: Europe/Moscow
           
-      - name: Repositories traffic
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.traffic.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: repositories
-          plugin_traffic: yes
+      # - name: Repositories traffic
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics.plugin.traffic.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: repositories
+      #     plugin_traffic: yes
           
-      - name: Recent activity
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: all
+      # - name: Recent activity
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics.plugin.activity.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_activity: yes
+      #     plugin_activity_limit: 5
+      #     plugin_activity_days: 0
+      #     plugin_activity_filter: all
           
       - name: Recently used
         uses: lowlighter/metrics@latest
