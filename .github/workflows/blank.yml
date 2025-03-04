@@ -19,9 +19,10 @@ jobs:
         with:
           filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
-          hireable: true
-          plugin_lines: yes
+          user: maxim-klenov
+          template: classic
+          base: header, activity, metadata
+          base_hireable: yes
           config_timezone: Europe/Moscow
           
       - name: Repositories traffic
