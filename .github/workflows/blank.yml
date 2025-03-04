@@ -18,6 +18,36 @@ jobs:
         with:
           filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
+      - name: Repositories traffic
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.traffic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: repositories
+          plugin_traffic: yes
+      - name: Recent activity
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: all
+      - name: Recently used
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.languages.recent.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot
+          plugin_languages_sections: recently-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 4
       - name: Mildly interesting facts
         uses: lowlighter/metrics@latest
         with:
