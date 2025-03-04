@@ -62,7 +62,7 @@ jobs:
           base: ""
           plugin_pagespeed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: https://lecoq.io
+          plugin_pagespeed_url: https://3-mobile-navigation.glitch.me/
           plugin_pagespeed_pwa: yes
           
       - name: Mildly interesting facts
