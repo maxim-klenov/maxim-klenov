@@ -21,7 +21,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: maxim-klenov
           template: classic
-          base: header, activity, metadata
+          base: header
           base_hireable: yes
           config_timezone: Europe/Moscow
           
@@ -60,7 +60,7 @@ jobs:
         with:
           filename: metrics.plugin.habits.facts.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          base: metadata
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
