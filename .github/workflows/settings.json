@@ -1,0 +1,12 @@
+{
+  "metrics": {
+    "api": {
+      "google": {
+        "pagespeed": {
+          "type": "token",
+          "token": "PAGESPEED_TOKEN"
+        }
+      }
+    }
+  }
+}
