@@ -54,17 +54,17 @@ jobs:
           plugin_languages_sections: recently-used
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 4
-      - name: Succinct report with PWA
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.pagespeed.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_pagespeed: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN_2 }}
-          plugin_pagespeed_url: https://vite-portfolio.glitch.me/
-          plugin_pagespeed_pwa: no
-          debug: true
+      # - name: Succinct report with PWA
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics.plugin.pagespeed.svg
+      #     token: NOT_NEEDED
+      #     base: ""
+      #     plugin_pagespeed: yes
+      #     plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN_2 }}
+      #     plugin_pagespeed_url: https://vite-portfolio.glitch.me/
+      #     plugin_pagespeed_pwa: no
+      #     debug: true
           
       - name: Mildly interesting facts
         uses: lowlighter/metrics@latest
