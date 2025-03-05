@@ -64,6 +64,7 @@ jobs:
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN_2 }}
           plugin_pagespeed_url: https://vite-portfolio.glitch.me/
           plugin_pagespeed_pwa: no
+          debug: true
           
       - name: Mildly interesting facts
         uses: lowlighter/metrics@latest
