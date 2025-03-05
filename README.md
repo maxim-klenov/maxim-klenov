@@ -4,7 +4,7 @@
 ![Metrics.plugin.languages.recent](/metrics.plugin.languages.recent.svg)
 
 
-  <h4 style="color: #FF0000">💞 LINKS</h4>
+  <h4 style="color: #FF0000">-----LINKS</h4>
 <ul color="#34383b">
   <details>
    <summary> Challenge with me in <a href="https://www.codewars.com/users/maxklenov" target="_black">codewars</a></summary>
