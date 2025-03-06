@@ -17,7 +17,7 @@
   </details>
   <details>
    <summary> I am in the <a href="https://dly.to/iAserb6OIiX" target="_black">daily.dev</a></summary>
-   <a href="https://app.daily.dev/maxklenov"><img src="https://api.daily.dev/devcards/v2/g1wmm1fUgTK30Zh099RDA.png?type=wide&r=v0u" width="452" alt="Maxim's Dev Card"/></a>
+   <a href="https://app.daily.dev/maxklenov"><img src="https://api.daily.dev/devcards/v2/g1wmm1fUgTK30Zh099RDA.png?type=wide&r=hkv" width="452" alt="Maxim's Dev Card"/></a>
   </details>
   <details>
    <summary> Or just say hi in <a href="https://t.me/tgxzz" target="_black">telegram</a></summary>
