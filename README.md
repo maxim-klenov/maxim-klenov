@@ -8,11 +8,11 @@
 <ul color="#34383b">
   <details>
    <summary> Challenge with me in <a href="https://www.codewars.com/users/maxklenov" target="_black">codewars</a></summary>
-   <img src="https://github.r2v.ch/codewars?user=maxklenov&stroke=rgb(255,255,255)" width="500" alt="maxim codewars stats">
+   <img src="https://www.codewars.com/users/maxklenov/badges/large" width="400" alt="maxim codewars stats">
   </details>
   <details>
    <summary> Take a look at <a href="https://glitch.com/@maxim-klenov" target="_black">glich profile</a></summary>
-   <img src="/glich.png" width="500" alt="maxim codewars stats">
+   <img src="/glich.png" width="450" alt="maxim codewars stats">
   </details>
   </details>
   <details>
