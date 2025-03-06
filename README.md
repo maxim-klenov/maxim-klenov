@@ -12,7 +12,7 @@
   </details>
   <details>
    <summary> Take a look at <a href="https://glitch.com/@maxim-klenov" target="_black">glich profile</a></summary>
-   <img src="/glich.png" width="450" alt="maxim codewars stats">
+   <img src="/glitch_prof.png" width="450" alt="maxim glich profile">
   </details>
   </details>
   <details>
