@@ -21,7 +21,7 @@
   </details>
   <details>
    <summary> Or just say hi in <a href="https://t.me/tgxzz" target="_black">telegram</a></summary>
-   Yo, what was I supposed to put in here? 😝
+   Yo, what was I supposed to put in here? 
   </details>
 </ul>
  
