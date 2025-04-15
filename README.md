@@ -29,4 +29,4 @@
   </details>
 </ul>
  
-![Metrics.habits.charts](metrics.plugin.habits.facts.svg)
+![Here are my metrics of my habits (when do I code, or what is the most active day of the week)](metrics.plugin.habits.facts.svg)
