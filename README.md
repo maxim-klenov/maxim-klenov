@@ -15,7 +15,7 @@
    <img src="https://www.codewars.com/users/maxklenov/badges/large" width="400" alt="maxim codewars stats">
   </details>
   <details>
-   <summary> Take a look at <a href="https://glitch.com/@maxim-klenov" target="_black">glich profile</a></summary>
+   <summary> Take a look projects at <a href="https://glitch.com/@maxim-klenov" target="_black">my glich profile</a></summary>
    <img src="/glitch_prof.png" width="450" alt="maxim glich profile">
   </details>
   </details>
