@@ -13,11 +13,11 @@
   <details>
    <summary> Challenge with me in <a href="https://www.codewars.com/users/maxklenov" target="_black">codewars</a></summary>
    <img src="https://www.codewars.com/users/maxklenov/badges/large" width="400" alt="maxim codewars stats">
-  </details>
+<!--   </details>
   <details>
    <summary> Take a look projects at <a href="https://glitch.com/@maxim-klenov" target="_black">my glich profile</a></summary>
    <img src="/glitch_prof.png" width="450" alt="maxim glich profile">
-  </details>
+  </details> -->
   </details>
   <details>
    <summary> I am in the <a href="https://dly.to/iAserb6OIiX" target="_black">daily.dev</a></summary>
