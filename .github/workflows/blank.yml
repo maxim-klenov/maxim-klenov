@@ -14,27 +14,27 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Metrics classic
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.classic.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: maxim-klenov
-          template: classic
-          base: header
-          base_hireable: yes
-          config_timezone: Europe/Moscow
-      - name: Most used
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_languages: yes
-          plugin_languages_ignored: >-
-            tex, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
-          plugin_languages_limit: 4
+      # - name: Metrics classic
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics.classic.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     user: maxim-klenov
+      #     template: classic
+      #     base: header
+      #     base_hireable: yes
+      #     config_timezone: Europe/Moscow
+      # - name: Most used
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics.plugin.languages.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_languages: yes
+      #     plugin_languages_ignored: >-
+      #       tex, dockerfile, makefile, qmake, lex, cmake, shell,
+      #       gnuplot
+      #     plugin_languages_limit: 4
       - name: Mildly interesting facts
         uses: lowlighter/metrics@latest
         with:
