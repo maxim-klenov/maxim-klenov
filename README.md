@@ -35,7 +35,13 @@
   <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" alt="ESLint / Prettier" /> 
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" /> 
 </div>
-
+<br>
+<b>Projects:</b>
+<ul>
+  <br>
+  <li>Currency converter - https://github.com/maxim-klenov/currency-converter</li>
+  <li>Food delivery - https://maxim-klenov.github.io/Restoapp/</li>
+</ul>
 <br>
 
 ![Here are my metrics of my habits (when do I code, or what is the most active day of the week)](metrics.plugin.habits.facts.svg)
