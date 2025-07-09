@@ -1,6 +1,6 @@
 <h3>Hi there 👋</h3>
 
-<p>I am Maxim Klenov, a Frontend Developer</p>
+<p>I am Maxim Klenov, a Frontend Engineer</p>
 
 
 
