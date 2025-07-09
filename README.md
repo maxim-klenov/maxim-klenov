@@ -36,11 +36,11 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" /> 
 </div>
 <br>
-<b>Projects:</b>
+<b>Check out these projects:</b>
 <ul>
   <br>
-  <li>Currency converter - https://github.com/maxim-klenov/currency-converter</li>
-  <li>Food delivery - https://maxim-klenov.github.io/Restoapp/</li>
+  <li>Currency converter - [<a href="https://maxim-klenov.github.io/currency-converter/">Preview</a>], [<a href="https://github.com/maxim-klenov/currency-converter">Code</a>] </li>
+  <li>Food delivery - [<a href="https://maxim-klenov.github.io/Restoapp/">Preview</a>], [<a href="https://github.com/maxim-klenov/Restoapp">Code</a>]</li>
 </ul>
 <br>
 
