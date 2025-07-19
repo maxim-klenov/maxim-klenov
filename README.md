@@ -9,12 +9,6 @@
   <a href="https://t.me/maxklenov" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:maxklenow@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.codewars.com/users/maxklenov" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?logo=Codewars&logoColor=white" alt="Gmail" />
-  </a>
 </div>
 <br>
 
