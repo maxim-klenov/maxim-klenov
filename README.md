@@ -1,10 +1,10 @@
-<h3>Hi there 👋</h3>
+<h3>Hi there! 👋</h3>
 
-<p>I am Maxim Klenov, a Frontend Engineer</p>
+<p>I am Maxim Klenov, a Frontend developer. </p>
 
 
 
-<b>Connect:</b>
+<b>Here's to connect:</b>
 <div align="left">
   <a href="https://t.me/maxklenov" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
@@ -12,7 +12,7 @@
 </div>
 <br>
 
-<b>Tech Stack:</b>
+<b>My Tech Stack:</b>
 <div align="left"> 
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" /> 
   <img src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" alt="React Router" />
