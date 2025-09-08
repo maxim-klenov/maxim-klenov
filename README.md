@@ -35,6 +35,7 @@
   <br>
   <li>Currency converter - [<a href="https://maxim-klenov.github.io/currency-converter/">Preview</a>], [<a href="https://github.com/maxim-klenov/currency-converter">Code</a>] </li>
   <li>Weather forecast - [<a href="https://maxim-klenov.github.io/WeatherApp-1/">Preview</a>], [<a href="https://github.com/maxim-klenov/WeatherApp-1">Code</a>]</li>
+  <li>Password generator - [<a href="https://github.com/maxim-klenov/password-generator/blob/main/README.md">Preview</a>], [<a href="https://github.com/maxim-klenov/password-generator/">Code</a>]</li>
   <li>Food delivery - [<a href="https://maxim-klenov.github.io/Restoapp/">Preview</a>], [<a href="https://github.com/maxim-klenov/Restoapp">Code</a>]</li>
 </ul>
 <br>
