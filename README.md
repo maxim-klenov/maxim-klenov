@@ -6,12 +6,7 @@
 
 <b>Here's to connect:</b>
 <div align="left">
-  <a href="https://t.me/laviewest" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://t.me/laviewest" target="_blank" rel="noopener noreferrer">
-    <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-  </a>
+  <a href="mailto:maxklenow@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=D14836" alt="gmail" /></a>
 </div>
 <br>
 
