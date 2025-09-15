@@ -6,7 +6,7 @@
 
 <b>Here's to connect:</b>
 <div align="left">
-  <a href="https://t.me/maxklenov" target="_blank" rel="noopener noreferrer">
+  <a href="https://t.me/laviewest" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
