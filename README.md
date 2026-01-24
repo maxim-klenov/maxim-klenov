@@ -6,7 +6,7 @@
 
 <b>Here's to connect:</b>
 <div align="left">
-  <a href="mailto:skipper.mk@proton.me"> <img src="https://img.shields.io/badge/Mail-8B89CC?logo=protonmail&logoColor=white" alt="mail" /> </a>
+  <a href="mailto:skipper.mk@proton.me" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Mail-8B89CC?logo=protonmail&logoColor=white" alt="mail" /> </a>
   <a href="https://t.me/dsdeg"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="telegram" /> </a>
 </div>
 <br>
